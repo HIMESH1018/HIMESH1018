@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_macos_bigsur_icon_189484.png" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Android Studio code" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png" style="padding-right:10px;" />]
 
 <br />
 <br />
