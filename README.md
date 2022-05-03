@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Stephen Innovations
 - 👯 I’m looking to collaborate on youtube
-- 💬 Ask me about Native Android Developments
+- 💬 Ask me about Native Android Developments | Flutter
 - ⚡ Fun fact: I love to play soccer 
 
 ----
